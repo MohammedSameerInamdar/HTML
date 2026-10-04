@@ -1,2 +1,2 @@
 # HTML
- Learning of Basics of HTML through small tasks
+ Learning the basics of HTML through small tasks
